@@ -1,0 +1,2 @@
+deb https://packages.gitlab.com/runner/gitlab-ci-multi-runner/debian/ stretch main
+deb-src https://packages.gitlab.com/runner/gitlab-ci-multi-runner/debian/ stretch main
